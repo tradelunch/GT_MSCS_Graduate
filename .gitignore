@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Mac
+**/.idea/
+.DS_Store
+
+# class
+**/_00_test_*
+
+
+
