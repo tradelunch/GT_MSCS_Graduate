@@ -1,9 +1,9 @@
 [submodule "cs6210_AOS"]
 	path = cs6210_AOS
-	url = git@github.com:tradelunch/cs6210_AOS.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6210_AOS.git
 [submodule "cs6250_CN"]
 	path = cs6250_CN
-	url = git@github.com:tradelunch/cs6250_CN.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6250_CN.git
 [submodule "cs6200_GIOS"]
 	path = cs6200_GIOS
-	url = git@github.com:tradelunch/cs6200_GIOS.git
+	url = git@github.com:tradelunch/GT_MSCS_cs6200_GIOS.git
