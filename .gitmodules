@@ -7,3 +7,6 @@
 [submodule "cs6200_GIOS"]
 	path = cs6200_GIOS
 	url = git@github.com:tradelunch/GT_MSCS_cs6200_GIOS.git
+[submodule "cs8803_O08_COMPILERS"]
+	path = cs8803_O08_COMPILERS
+	url = git@github.com:tradelunch/GT_MSCS_cs8803_O08_Compilers_Theory_Practice.git
